@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **furkanbecet@gmail.com**
 
-- ⚡ Fun fact :- Computer Technologies.
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
