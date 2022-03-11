@@ -36,7 +36,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet"
       width="40" height="40" />  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />  </a> </p>
+      width="40" height="40" />  </a> <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio"
+      width="40" height="40" />  </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visualstudiocode"
+      width="40" height="40" />  </a></p>
 
 <br>
 
