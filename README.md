@@ -28,15 +28,15 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"
-      alt="csharp" width="40" height="40" />  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />  </a> <a href="https://unity.com" target="_blank" rel="noreferrer"> <img
+<p align="left"><a href="https://unity.com" target="_blank" rel="noreferrer"> <img
       src="https://camo.githubusercontent.com/28a48ee5bd78746991caab6031c28812d3e95479ea78243c01f881666f252e8b/68747470733a2f2f692e6962622e636f2f71436e665777392f4261636b67726f756e642d312e706e67" alt="unity"
-      width="40" height="40" /> </a> </a> <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a>  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"
+      alt="csharp" width="40" height="40" />  </a> <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet"
-      width="40" height="40" />  </a></p>
+      width="40" height="40" />  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" />  </a> </p>
 
 <br>
 
