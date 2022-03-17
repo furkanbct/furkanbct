@@ -56,12 +56,10 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-doser&" alt="i-doser" /></p>
-
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=i-doser" alt="i-doser" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=i-doser&theme=radical" alt="i-doser" /></a> </p>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
