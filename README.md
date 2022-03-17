@@ -51,7 +51,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-doser&show_icons=true&theme=radical&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-doser&show_icons=true&theme=radical"
     alt="i-doser" /></p>
 
 <br>
