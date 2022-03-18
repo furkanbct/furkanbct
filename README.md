@@ -46,12 +46,12 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=i-doser&show_icons=true&theme=radical&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=i-doser&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="adam-pw" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-doser&show_icons=true&theme=radical"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-doser&show_icons=true&theme=dark"
     alt="i-doser" /></p>
 
 <br>
@@ -59,7 +59,7 @@
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=i-doser&theme=radical" alt="i-doser" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=i-doser&theme=dark" alt="i-doser" /></a> </p>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
