@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=i-doser)
+![Views](https://komarev.com/ghpvc/?username=i-doser)
 
 <br>
 
