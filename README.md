@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently developing games and learning programming languages
 
-- 📫 How to reach me **furkanbecet@gmail.com**
+- 📫 How to reach me : **furkanbecet@gmail.com**
 
 <br>
 
