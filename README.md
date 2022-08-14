@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=i-doser)
+![](https://komarev.com/ghpvc/?username=furkanbct)
 
 <br>
 
@@ -43,17 +43,17 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=i-doser&show_icons=true&theme=dark&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanbct&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="adam-pw" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-doser&show_icons=true&theme=dark"
-    alt="i-doser" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanbct&show_icons=true&theme=dark"
+    alt="furkanbct" /></p>
 
 <br>
 
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-[IDoser](https://github.com/i-doser)
+[Furkan Beçet](https://github.com/furkanbct)
