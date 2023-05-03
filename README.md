@@ -44,11 +44,11 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanbct&show_icons=true&theme=dark&locale=en&layout=compact"/></p>
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=furkanbct&show_icons=true&theme=dark&locale=en&layout=compact"/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanbct&show_icons=true&theme=dark"
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkanbct&show_icons=true&theme=dark"
     alt="furkanbct" /></p>
 
 <br>
