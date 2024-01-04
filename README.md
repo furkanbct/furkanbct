@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/furkan-beçet-96686520b" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="furkan becet" height="40" width="40" /></a>     
-  <a href="https://instagram.com/furkanbct" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" style="max-width: 100%;"></a>
+  <a href="https://instagram.com/coder.furkan" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" style="max-width: 100%;"></a>
 </p>
 
 <br>
